@@ -1,3 +1,5 @@
+<h1 align="center">⭐About Me⭐</h1>
+
 [![Your Banner](github-header-image.png)](https://github.com/IulianGabriel)
 
 
@@ -43,3 +45,5 @@
   [![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=IulianGabriel&show_icons=true&theme=tokyonight&card_width=1000&rank_icon=github)](https://github.com/IulianGabriel/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IulianGabriel&show_icons=true&&theme=tokyonight&card_width=1000)](https://github.com/IulianGabriel/github-readme-stats)
+
+  ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
