@@ -14,13 +14,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
   </a>
   &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="80" height="80"/>
+  </a>
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
   </a>
-  &nbsp;
+    &nbsp;
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="80" height="80"/>
+  </a>
   &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/>
+  </a>
+    &nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJs" width="80" height="80"/>
+  </a>
+    &nbsp;
+    </a>
+    <a href="https://remix.run/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Remix-Dark.svg" alt="Remix" width="80" height="80"/>
   </a>
   &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -31,12 +48,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/>
   </a>
   &nbsp;
+    <a href="https://fastify.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353728/fastify.svg" alt="Fastify" width="80" height="80"/>
+  </a>
+  &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
-  </a>
-  
-  <h2 align="center">📊Stats📊</h2>
+ &nbsp;
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="80" height="80"/>
+ &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="80" height="80"/>
+ &nbsp;
 
-  [![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=IulianGabriel&show_icons=true&theme=tokyonight&card_width=1000&rank_icon=github)](https://github.com/IulianGabriel/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IulianGabriel&show_icons=true&&theme=tokyonight&card_width=1000)](https://github.com/IulianGabriel/github-readme-stats)
