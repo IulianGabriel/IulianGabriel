@@ -52,6 +52,14 @@
     <img src="https://www.svgrepo.com/show/353728/fastify.svg" alt="Fastify" width="80" height="80"/>
   </a>
   &nbsp;
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GraphQL-Dark.svg" alt="Fastify" width="80" height="80"/>
+  </a>
+  &nbsp;
+        <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Apollo.svg" alt="Fastify" width="80" height="80"/>
+  </a>
+  &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/>
  &nbsp;
@@ -61,4 +69,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="80" height="80"/>
  &nbsp;
-
